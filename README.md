@@ -25,7 +25,7 @@ A responsive web layout showcasing cards section. The design emphasizes clean ty
 
 # Links
 
-[Live Here](https://github.com/ayeshalatif1/cardsSection)   
+[Live Here](https://ayeshalatif1.github.io/cardsSection/)   
 
 
 ## Built With
