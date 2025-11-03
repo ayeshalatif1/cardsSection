@@ -20,13 +20,12 @@ A responsive web layout showcasing cards section. The design emphasizes clean ty
 
 ## Screenshot
 
-![Screenshot](./screenshot.PNG)  
+![Screenshot](./screenshot.png)  
 
 
 # Links
 
-![Live Here](./screenshot.PNG)  
-![Repository Link](./screenshot.PNG)  
+![Live Here](https://github.com/ayeshalatif1/cardsSection)   
 
 
 ## Built With
